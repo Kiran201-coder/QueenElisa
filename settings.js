@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QVykGawIVRyIzM39UQYZja0gXcIN3YYBHZahGVBhTQ0l1TwUkVh9GO5IXMjIlaENUeFJlWpwd=475736283919',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -27,7 +27,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
   OWNER_NUMBER: '94715166712',
   SUDO: '94715166712',
-  WORK_TYPE: 'public',
+  WORK_TYPE: 'private',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
@@ -40,7 +40,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   AUTO_VOICE: false,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
-  AUTO_REACT: true,
+  AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: false,
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,
